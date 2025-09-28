@@ -16,7 +16,7 @@ namespace _04_Task_Performance_1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmTrackThread());
         }
     }
 }
