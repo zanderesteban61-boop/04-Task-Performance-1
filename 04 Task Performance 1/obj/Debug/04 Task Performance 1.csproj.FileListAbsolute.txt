@@ -1,0 +1,10 @@
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\bin\Debug\04 Task Performance 1.exe.config
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\bin\Debug\04 Task Performance 1.exe
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\bin\Debug\04 Task Performance 1.pdb
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\obj\Debug\04 Task Performance 1.csproj.AssemblyReference.cache
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\obj\Debug\_04_Task_Performance_1.frmTrackThread.resources
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\obj\Debug\_04_Task_Performance_1.Properties.Resources.resources
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\obj\Debug\04 Task Performance 1.csproj.GenerateResource.cache
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\obj\Debug\04 Task Performance 1.csproj.CoreCompileInputs.cache
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\obj\Debug\04 Task Performance 1.exe
+C:\Users\ryanpaul\source\repos\04 Task Performance 1\04 Task Performance 1\obj\Debug\04 Task Performance 1.pdb

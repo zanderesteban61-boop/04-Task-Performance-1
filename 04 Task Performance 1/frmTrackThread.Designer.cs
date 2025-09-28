@@ -55,6 +55,7 @@
             this.btnRun.TabIndex = 1;
             this.btnRun.Text = "Run";
             this.btnRun.UseVisualStyleBackColor = false;
+            this.btnRun.Click += new System.EventHandler(this.btnRun_Click);
             // 
             // frmTrackThread
             // 
